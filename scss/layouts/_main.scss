@@ -1,0 +1,22 @@
+// Main
+.main {
+  @include for-tablet {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 59px;
+  }
+  &__img {
+    max-width: 100%;
+  }
+}
+// Main Content
+.main {
+  &__content {
+    text-align: center;
+    margin-top: 3.75rem;
+    @include for-tablet {
+      text-align: start;
+      margin: 0;
+    }
+  }
+}

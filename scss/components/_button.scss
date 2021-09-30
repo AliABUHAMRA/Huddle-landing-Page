@@ -1,0 +1,23 @@
+//Button
+.main {
+  &__btn {
+    font-size: 0.75rem;
+    background-color: $clr-white;
+    border-radius: 28px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: $clr-primary;
+    width: calc(min(200px, 100%));
+    height: clamp(2.5rem, 5vw, 3.5rem);
+    margin-top: 1.5rem;
+    @include for-tablet {
+      font-size: 1.125rem;
+    }
+    &:hover {
+      background-color: $clr-secondry-soft;
+      color: $clr-white;
+      box-shadow: 2px 4px 9px 3px hsla(0, 0%, 0%, 0.26);
+    }
+  }
+}

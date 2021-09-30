@@ -1,0 +1,13 @@
+// Typeography
+h1 {
+  font-size: var(--fs-h);
+  font-weight: $fw-h-lar;
+  color: $clr-white;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: var(--fs-p);
+  font-weight: $fw-h-md;
+  color: $clr-white;
+}

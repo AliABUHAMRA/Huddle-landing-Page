@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: $ff-open-sans, $sans-serif;
+  font-size: $fs-body;
+  font-weight: $fw-body;
+  min-height: 100vh;
+  line-height: 1.6;
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: url(../images/bg-mobile.svg);
+  background-color: $clr-primary;
+  background-repeat: no-repeat;
+  z-index: -1;
+  @include for-tablet {
+    background-image: url(../images/bg-desktop.svg);
+  }
+}
+
+.container {
+  max-width: 1275px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin: 0 auto;
+  @include for-tablet {
+    padding: 0;
+  }
+}

@@ -1,0 +1,33 @@
+//Variables
+
+//Colors
+// Primary
+$clr-primary: hsl(257, 40%, 49%);
+$clr-secondry-soft: hsl(300, 69%, 71%);
+$clr-white: #fff;
+
+// Font-size
+$fs-body: 1rem;
+// Font-Family
+// 1- Heading
+$ff-poppins: "Poppins";
+// 2- body
+$ff-open-sans: "Open Sans";
+
+$sans-serif: sans-serif;
+
+// Font-Weight
+// 1 - Heading
+$fw-h-md: 400;
+$fw-h-lar: 600;
+// 2- body
+$fw-body: 400;
+
+// Screen break-points
+$small-phone: 320px;
+$large-phone: 768px;
+$tablet: 960px;
+$desktop: 1200px;
+$desktop-large: 1400px;
+
+$fa-font-path: "../webfonts";
