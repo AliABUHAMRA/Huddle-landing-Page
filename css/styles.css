@@ -6624,14 +6624,31 @@ Files inside this folder can contain specific element styles and layout.
           box-shadow: 2px 4px 9px 3px rgba(0, 0, 0, 0.26);
 }
 
-.attribution {
+.my-link {
   visibility: hidden;
+  font-weight: 400;
+  text-align: center;
+}
+
+.my-link a:hover {
+  color: #fff;
+  -webkit-box-shadow: 2px 4px 9px 3px;
+          box-shadow: 2px 4px 9px 3px;
 }
 
 @media only screen and (min-width: 960px) {
-  .attribution {
+  .my-link {
     visibility: visible;
   }
+}
+
+.my-link {
+  padding: 1rem;
+  margin: 0;
+}
+
+.my-link a {
+  text-decoration: none;
 }
 
 *,

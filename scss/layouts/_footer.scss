@@ -31,10 +31,26 @@
   }
 }
 
-.attribution {
+.my-link {
   visibility: hidden;
+  font-weight: 400;
+  text-align: center;
+  a {
+    &:hover {
+      color: #fff;
+      box-shadow: 2px 4px 9px 3px;
+    }
+  }
   @include for-tablet {
     visibility: visible;
   }
 }
 //Footer Buttons
+
+.my-link {
+  padding: 1rem;
+  margin: 0;
+  a {
+    text-decoration: none;
+  }
+}
