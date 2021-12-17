@@ -1,24 +1,58 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+# Huddle landing page with single introductory section
 
-![github repo size](https://img.shields.io/github/repo-size/AliBearr/card-component)
-![github contributors](https://img.shields.io/github/contributors/AliBearr/card-component)
-![github twiter](https://img.shields.io/twitter/follow/Alibearrr?style=social)
+![github repo size](https://img.shields.io/github/repo-size/aliabuhumra/Base-Apparel-coming-soon-page)
+![github contributors](https://img.shields.io/github/contributors/aliabuhumra/Base-Apparel-coming-soon-page)
+![github twiter](https://img.shields.io/twitter/follow/aliabuhumra?style=social)
 
-<!-- ![podcast preview](./design/desktop-preview.jpg) -->
+## Welcome! 👋
 
-## Incentives from the project :
+## Table of contents
 
-1. Grid
-2. learn Responsive desigen layout
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+
+### Links
+
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KYxt5dG7m)
+- Live Site URL: [Live site URL](https://aliabuhumra.github.io/Base-Apparel-coming-soon-page/)
+
+## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - BEM
+- CSS custom properties
 - Flexbox
 - CSS Grid
 
 ### What I learned
 
-learned how to use Responsive and Scaling Content well
+This project teaches you a lot about Grid and flex-box
+
+## Author
+
+- Website - [Github/AliAbuhumra](https://github.com/aliabuhumra)
+- Frontend Mentor - [@AliAbuhumra](https://www.frontendmentor.io/profile/aliabuhumra)
+- Twitter - [@AliAbuhumra](https://twitter.com/aliabuhumra)
+
+Thanks for checking out this project.
