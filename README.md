@@ -1,7 +1,7 @@
 # Huddle landing page with single introductory section
 
-![github repo size](https://img.shields.io/github/repo-size/aliabuhumra/Base-Apparel-coming-soon-page)
-![github contributors](https://img.shields.io/github/contributors/aliabuhumra/Base-Apparel-coming-soon-page)
+![github repo size](https://img.shields.io/github/repo-size/aliabuhumra/Huddle-landing-Page)
+![github contributors](https://img.shields.io/github/contributors/aliabuhumra/Huddle-landing-Page)
 ![github twiter](https://img.shields.io/twitter/follow/aliabuhumra?style=social)
 
 ## Welcome! 👋
