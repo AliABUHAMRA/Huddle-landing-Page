@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KYxt5dG7m)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-M76vrKdNB)
 - Live Site URL: [Live site URL](https://aliabuhumra.github.io/Huddle-landing-Page/)
 
 ## My process
